@@ -1,4 +1,4 @@
-# training_kedua
+# Flare Splash Screen 
 
 A new Flutter application.
 
